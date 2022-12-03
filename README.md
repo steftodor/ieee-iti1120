@@ -13,8 +13,11 @@ For questions regarding the session and future sessions please contact [academic
 
 ## More Resources
 [Big O Notation](https://www.youtube.com/watch?v=5yJ_QLec0Lc)
+
 [Recursion](https://www.youtube.com/watch?v=wMNrSM5RFMc)
+
 [Python Review](https://www.youtube.com/watch?v=JJmcL1N2KQs)
 
 [2020 Cookies and Cram session on YouTube](https://www.youtube.com/watch?v=2tcRK9cMcIw)
+
 [2021 Cookies and Cram session on YouTube](https://www.youtube.com/watch?v=vc7-oKy2G5c)
